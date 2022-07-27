@@ -1,3 +1,3 @@
 # Dating-App-MERN-
 
-## It is a simple dating app 
+## It is a simple dating app where users can swipe
