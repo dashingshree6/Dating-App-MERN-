@@ -1,3 +1,3 @@
 # Dating-App-MERN-
 
-## It is a
+## It is a simple 
