@@ -4,4 +4,4 @@
 
 ## Technologies :
 
-### Frontend : 
+### Frontend : React JS
