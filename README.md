@@ -5,4 +5,4 @@
 ## Technologies :
 
 ### Frontend : React JS
-### Backend : 
+### Backend : Node JS
